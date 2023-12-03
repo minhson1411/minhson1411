@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Michael Son Nguyen</h1>
-<h3 align="center">I want to become an expert Data Engineer</h3>
+<h2 align="center">I want to become an expert Data Engineer</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
+<br>
 - 💻 **I'm AI & Data Engineer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">**
 - 👀 **As a Data Engineer, my focus is on crafting efficient data solutions** 
 - **I specialize in designing scalable data pipelines, working with big data technologies, and optimizing databases**
