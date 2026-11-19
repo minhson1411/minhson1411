@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Michael Son Nguyen</h1>
-<h2 align="center">I want to become an expert Data Engineer</h3>
+<h2 align="center">I want to become an expert AI Engineer</h3>
 <br/>
 
 ## 🙋‍♂️ About Me
